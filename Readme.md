@@ -6,6 +6,10 @@ https://open-in-app-assignment-two.vercel.app/
 
 ## Video Preview
 
+
+https://github.com/Srishti0901/OpenInApp-Assignment/assets/103064237/274addb2-805c-46c4-968d-d696643f252a
+
+
 ## Images
 
 <img src="results/image1.png"  width="800" height="600">
